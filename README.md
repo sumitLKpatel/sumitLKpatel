@@ -5,7 +5,7 @@
 ### Senior Full-Stack Engineer · Technical Project Manager
 ### AI Integration · Software Architecture · Product Delivery
 
-**Turning complex requirements into reliable products—with a growing focus on applied AI.**
+**Turning complex requirements into reliable products, with a growing focus on applied AI.**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -20,7 +20,7 @@
 
 ## About me
 
-I'm a **senior full-stack engineer and technical project manager with 11+ years of experience** developing software and coordinating cross-functional teams. I connect hands-on engineering, software architecture, and product delivery—from backend services and APIs to web and mobile experiences.
+I'm a **senior full-stack engineer and technical project manager with 11+ years of experience** developing software and coordinating cross-functional teams. I connect hands-on engineering, software architecture, and product delivery, from backend services and APIs to web and mobile experiences.
 
 My focus is practical: understand the problem, define clear system boundaries, and ship software that teams can operate and maintain.
 
@@ -32,6 +32,8 @@ My focus is practical: understand the problem, define clear system boundaries, a
 ## Applied AI · Current focus
 
 I'm extending my full-stack and architecture background toward **AI integration and AI-enabled product engineering**.
+
+My current focus includes **customized AI solutions for restaurants and businesses**, including domain-specific assistants, workflow automation, and exploring **model fine-tuning** for business-specific needs.
 
 Areas I'm exploring:
 
